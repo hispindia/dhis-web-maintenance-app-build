@@ -1,6 +1,6 @@
 {
   "name": "maintenance-app",
-  "version": "29.2.14",
   "description": "DHIS2 Maintenance app",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "version": "29.2.14"
 }
